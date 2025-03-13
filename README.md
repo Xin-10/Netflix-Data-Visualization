@@ -7,9 +7,9 @@ Does this suggest that **content quality does not significantly impact a company
 
 To explore this issue with data, I incorporated three key datasets from Netflix:
 
-- **Netflix Movie & TV Show Data** (content production & metadata)
+- **Netflix Movie & TV Show Data** (content production & metadata-https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows)
 - **IMDb Ratings Data** (quality assessment-https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores)
-- **Netflix Stock Price Data** (business performance)
+- **Netflix Stock Price Data** (business performance-https://www.kaggle.com/datasets/matiflatif/netflix-complete-stock-dataweekly-updated)
 
 As the most prominent streaming platform, Netflix's content strategy shifts may provide insights into broader industry trends.
 
