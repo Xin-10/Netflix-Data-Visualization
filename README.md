@@ -2,6 +2,10 @@
 
 This interactive dashboard explores trends in Netflix content production, quality (via IMDb ratings), and their potential business impact (via stock price). The analysis uses data from Kaggle and is implemented with Dash and Plotly.
 
+### Live Demo
+
+Check out the deployed dashboard here: [Netflix Dashboard on Render](https://netflix-dashboard-792p.onrender.com)
+
 # Installation & Execution
 This project runs on Python 3.12+ and requires several dependencies listed in requirements.txt.
 
